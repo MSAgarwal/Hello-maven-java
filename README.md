@@ -8,6 +8,6 @@ This project builds a simple Java app using Maven in Jenkins.
 4. Created and ran a Freestyle job
 
 ## Output
-![Jenkins Build Success](01.png)
-![Jenkins Build Success](02.png)
+![Jenkins Build Success](Screenshots/01.png)
+![Jenkins Build Success](Screenshots/02.png)
 
